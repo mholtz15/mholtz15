@@ -2,8 +2,8 @@
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me:
-  michaelholtz1509@icloud.com 
+- 📫 How to reach me: <Br>
+  Email: michaelholtz1509@icloud.com 
 
 <!---
 mholtz15/mholtz15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
