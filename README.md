@@ -3,7 +3,8 @@
 - 📫 How to reach me: <Br>
   Email: michaelholtz1509@icloud.com
 
-  ![image](https://github.com/mholtz15/mholtz15/assets/157908872/a9de8fcf-9cf3-4e95-974c-f93c23bf2be5)
+![Pink Aesthetic Handwritten Wedding Agent Business Card](https://github.com/mholtz15/mholtz15/assets/157908872/6bcba6b5-6175-44bb-b04d-81f973813674)
+
 
 
 <!---
