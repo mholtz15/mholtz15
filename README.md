@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Azhar Ghafoor</h1>
-<h3 align="center">A passionate cyber security analyst from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Michael Holtz</h1>
+<h3 align="center">A cybersecurity aspirant from the UK</h3>
 - 📫 How to reach me: <Br>
   Email: michaelholtz1509@icloud.com
 
