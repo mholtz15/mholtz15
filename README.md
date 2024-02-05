@@ -1,4 +1,5 @@
- # Hi, Im Michael
+<h1 align="center">Hi 👋, I'm Azhar Ghafoor</h1>
+<h3 align="center">A passionate cyber security analyst from Pakistan</h3>
 - 📫 How to reach me: <Br>
   Email: michaelholtz1509@icloud.com
 
