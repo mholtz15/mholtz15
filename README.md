@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Michael Holtz
-- 👀 I’m interested in Cybersecurity
+ # Hi, Im Michael
 - 📫 How to reach me: <Br>
   Email: michaelholtz1509@icloud.com
 
